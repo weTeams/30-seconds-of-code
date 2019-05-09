@@ -1,4 +1,4 @@
-### isLowerCase
+### isLowerCase 是否为小写
 
 Checks if a string is lower case.
 

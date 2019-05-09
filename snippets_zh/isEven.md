@@ -1,4 +1,4 @@
-### isEven
+### isEven  偶数
 
 Returns `true` if the given number is even, `false` otherwise.
 

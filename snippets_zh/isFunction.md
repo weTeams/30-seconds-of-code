@@ -1,4 +1,4 @@
-### isFunction
+### isFunction  是否为函数
 
 Checks if the given argument is a function.
 
